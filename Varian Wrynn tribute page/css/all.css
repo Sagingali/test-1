@@ -1,0 +1,3 @@
+/* @import url("vendor/reset.css"); */ 
+/* отключил reset.css, так в не было его в онлайн редакторе кода codepen, на котором я и делал это первое задание. */
+@import url("main.css");
